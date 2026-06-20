@@ -1,0 +1,5 @@
+print('hello')
+print('hi')
+print('hola')
+print('privet')
+print('darova')
